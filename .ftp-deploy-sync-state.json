@@ -1,0 +1,19 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1658216993538,
+    "data": [
+        {
+            "type": "file",
+            "name": "mergedVendor.zip",
+            "size": 19342697,
+            "hash": "553492300568537ef5d58f1c59046b4888e65723e56321e397087aaad045e6e2"
+        },
+        {
+            "type": "file",
+            "name": "update.zip",
+            "size": 12707157,
+            "hash": "d4a7fb15c4f83dedf1671c20a3d8676de9deabaa06fa1d880a1c4bc81346c09c"
+        }
+    ]
+}
